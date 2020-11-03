@@ -211,6 +211,7 @@ Jika perintah di atas dijalankan maka layar yang ditampilkan, yaitu :
 
 ![Gambar1](Lab2/GambarLab2/gbr1.PNG)
 
+
 Perintah di atas merupakan tipe data, variable, dan operator.
 
 1. `a=input("masukkan nilai a:")`
