@@ -8,7 +8,7 @@
 	Dosen : Agung Nugroho, M.Kom
 </p>
 <p align="center">
-	<b>Tugas untuk memenuhi syarat penilain pada Pert-6</b>
+	<b>Tugas untuk memenuhi syarat penilaian pada Pert-6</b>
 </p>
 
 <p align="center">
