@@ -5,7 +5,7 @@ print("variable b=",b)
 print("hasil penggabungan {1}&{0}=%a".format(a,b) %(a+b))
 
 #konversi nilai variable
-a=int(04)
-b=int(10)
+a=int(a)
+b=int(b)
 print("hasil penjumlahan {1}+{0}=%a".format(a,b) %(a+b))
 print("hasil pembagian {1}/{0}=%a".format(a,b) %(a/b))
