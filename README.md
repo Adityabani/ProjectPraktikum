@@ -64,7 +64,7 @@ Perintah `print('...')` merupakan perintah yang berfungsi untuk menunjukkan hasi
 
 `Penggunaan End` merujuk pada cetak akhir baris atau baris baru pada kalimat atau paragraf.
 
-**gbr 1**
+![gambar1](Lab1/GambarLab1/gbr1.PNG)
 
 - `print('A', end='')`,
 - `print('B', end='')`,
@@ -81,13 +81,13 @@ menunjukkan perintah bahwa :
 
  Maka hasil dapat ditampilkan di terminal tertera gambar di bawah ini.
 
-**gbr8**
+![gambar8](Lab1/GambarLab1/gbr8.PNG)
 
 ## Penggunaan Separator
 
 `Penggunaan Separator` merupakan tanda pemisah dari objek yang dicetak atau menjadi satu kalimat yang mempunyai jarak penulisan setiap barisnya.
 
-**gbr2**
+![gambar2](Lab1/GambarLab1/gbr2.PNG)
 
 Pada perintah python di atas, untuk lebih jelasnya, yaitu :
 
@@ -109,13 +109,13 @@ menunjukkan perintah bahwa :
 
 Atau hasil bisa dilihat pada terminal pada gambar dibawah ini.
 
-**gbr3**
+![Gambar3](Lab1/GambarLab1/gbr3.PNG)
 
 ## Penggunaan pada String Format
 
 String format di gunakan sebagai konversi data ke bentuk string sebagai contoh bila 2 merupakan pangkat, dan 4 adalah angka, maka 4 pangkat 2 yaitu 16 maka konversi data tersebut termasuk jenis perhitungan eksponen (perpangkatan).
 
-**gbr4**
+![Gambar4](Lab1/GambarLab1/gbr4.PNG)
 
 pada perintah python di atas merupakan operasi aritmatika jenis operasi perpangkatan (Eksponnen), lebih jelasnya, yaitu :
 
@@ -157,11 +157,11 @@ perintah di atas dijelaskan bahwa :
 
 Maka jika perintah dijalankan pada layar terminal hasil yang keluar ialah :
 
-**gbr5**
+![Gambar5](Lab1/GambarLab1/gbr5.PNG)
 
 **(Gambar di bawah merupakan lanjutan perintah pada string format)**
 
-**gbr6**
+![Gambar6](Lab1/GambarLab1/gbr6.PNG)
 
 Pada perintah di atas merupakan jenis konversi data perpangkatan (Eksponen) yang mempunyai jarak antar baris yang disejajarkan dengan yang lain, untuk lebih jelasnya, yaitu :
 
@@ -205,10 +205,11 @@ Menyatakan bahwa :
 
 Jika perintah di atas dijalankan maka layar yang ditampilkan, yaitu :
 
-**gbr7**
+![Gambar7](Lab1/GambarLab1/gbr7.PNG)
+
 # Lab 2
 
-**gbr1lab2**
+![Gambar1](Lab2/GambarLab2/gbr1.PNG)
 
 Perintah di atas merupakan tipe data, variable, dan operator.
 
@@ -227,14 +228,14 @@ Pada perintah di atas menyatakan, bahwa :
 5. hasil penggabungan `{1}&{0}=%d` dimana 1 merupakan data nilai b, dan 0 adalah tipe data nilai a, jika di sisa bagi-kan ke d hasil yang keluar ialah `Traceback (most recent call last):` atau selengkapnya bisa lihat pada gambar di bawah ini.
 
 
-**gbr2lab2**
+![Gambar2](Lab2/GambarLab2/gbr2.PNG)
 
 
 sintaks yang muncul di atas yaitu `Traceback (most recent call last):` dijelaskan adanya masalah yang perlu di perbaiki maka di telurusi pada syntax yang ada pada module yaitu pada baris ke 5, `print("hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))`.
 
 `TypeError: %d format: a number is required, not str` pada sintaks tersebut dapat di nyatakan sebagai `syntax error`, karena Error terjadi adanya kesalahan struktur (sintaks) pada program. Apabila, jika variabel `d` diganti dengan variabel `a` yang disesuaikan oleh intruksikan dari syntax di atas, maka pernyataan yang benar adalah : (syntax yang benar ada pada gambar di bawah ini).
 
-**gbr3lab2**
+![Gambar3](Lab2/GambarLab2/gbr3.PNG)
 
 1. `a=input("masukkan nilai a:")`
 2. `b=input("masukkan nilai b:")`
@@ -252,7 +253,7 @@ Pada perintah di atas menyatakan, bahwa :
 
 Berikut ini adalah hasil tampilan di terminal.
 
-**gbr10lab2**
+![Gambar10](Lab2/GambarLab2/gbr10.PNG)
 
 ## Konversi Nilai Bilangan
 
@@ -260,7 +261,7 @@ Pada Konversi Nilai Bilangan juga dapat dinyatakan `syntax error` dan hasil akan
 
 Konversi Nilai Bilangan di bawah merupakan bentuk dari operasi operator dari tipe Arithmetic Operators dan Assignment Operators.
 
-**gbr8lab2**
+![Gambar8](Lab2/GambarLab2/gbr8.PNG)
 
 Operasi operator di atas meliputi Operator Aritmatika, yaitu ; Pertambahan (+), dan Pembagian (/), dan diliputi Operator Penugasan, yaitu sisa bagi (%).
 
@@ -278,4 +279,4 @@ perintah atas dapat dinyatakan :
 
 Jika di tampilkan di layar terminal maka hasil dikeluarkan tertera pada gambar dibawah ini.
 
-**gbr9lab2**
+![Gambar9](Lab2/GambarLab2/gbr9.PNG)
